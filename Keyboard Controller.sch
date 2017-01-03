@@ -992,13 +992,13 @@ Wire Wire Line
 Wire Wire Line
 	3950 4575 3925 4575
 Text Label 3975 4125 0    60   ~ 0
-LED0
-Text Label 3975 4275 0    60   ~ 0
 LED1
-Text Label 4100 5250 0    60   ~ 0
+Text Label 3975 4275 0    60   ~ 0
 LED2
-Text Label 3950 5450 0    60   ~ 0
+Text Label 4100 5250 0    60   ~ 0
 LED3
+Text Label 3950 5450 0    60   ~ 0
+LED4
 Wire Wire Line
 	4300 5625 3950 5625
 Wire Wire Line
@@ -1010,17 +1010,17 @@ Wire Wire Line
 Wire Wire Line
 	4300 6350 3950 6350
 Text Label 3950 5625 0    60   ~ 0
-LED4
-Text Label 3950 5800 0    60   ~ 0
 LED5
-Text Label 3950 6000 0    60   ~ 0
+Text Label 3950 5800 0    60   ~ 0
 LED6
-Text Label 3950 6175 0    60   ~ 0
+Text Label 3950 6000 0    60   ~ 0
 LED7
-Text Label 3950 6350 0    60   ~ 0
+Text Label 3950 6175 0    60   ~ 0
 LED8
+Text Label 3950 6350 0    60   ~ 0
+LED9
 Text Label 1750 4575 0    60   ~ 0
-LED4
+LED5
 Wire Wire Line
 	1750 4575 2100 4575
 Wire Wire Line
@@ -1032,11 +1032,11 @@ Wire Wire Line
 Wire Wire Line
 	2100 4000 1750 4000
 Text Label 1750 4425 0    60   ~ 0
-LED5
-Text Label 1750 4275 0    60   ~ 0
 LED6
-Text Label 1750 4125 0    60   ~ 0
+Text Label 1750 4275 0    60   ~ 0
 LED7
-Text Label 1750 4000 0    60   ~ 0
+Text Label 1750 4125 0    60   ~ 0
 LED8
+Text Label 1750 4000 0    60   ~ 0
+LED9
 $EndSCHEMATC
