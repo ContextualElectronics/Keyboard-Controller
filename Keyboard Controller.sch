@@ -1039,4 +1039,22 @@ Text Label 1750 4125 0    60   ~ 0
 LED8
 Text Label 1750 4000 0    60   ~ 0
 LED9
+Text Label 4250 2775 0    60   ~ 0
+SW1
+Text Label 4275 2925 0    60   ~ 0
+SW2
+Text Label 4275 3075 0    60   ~ 0
+SW3
+Text Label 4275 3225 0    60   ~ 0
+SW4
+Text Label 4275 3375 0    60   ~ 0
+SW5
+Text Label 4275 3525 0    60   ~ 0
+SW6
+Text Label 4275 3675 0    60   ~ 0
+SW7
+Text Label 4275 3825 0    60   ~ 0
+SW8
+Text Label 4275 3975 0    60   ~ 0
+SW9
 $EndSCHEMATC
